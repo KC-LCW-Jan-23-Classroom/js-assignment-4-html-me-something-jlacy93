@@ -1,1 +1,60 @@
 /* Write your CSS here! */
+header{
+font-size: 15px;
+/* color: red; */
+}
+
+body{
+    width: 100%;
+    margin: 8 px;
+    display: block;
+    background-color: rgb(228, 235, 240);
+    font-size: 65%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainHeading{
+    color: red;
+}
+
+ul{
+    font-size: 64%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: -2%;
+}
+
+section {
+	margin: 50px;
+    background-color: aliceblue;
+    border-color: black;
+    border-style: dotted;
+    border-width: thin;
+}
+
+p{
+    margin-top: 20;
+    margin-left: 5px;
+}
+
+figure {
+    color: cornflowerblue;
+}
+
+img {
+    border-style: ridge;
+}
+
+.funParagraph,
+#testP{
+    color: green;
+}
+
+img {
+    align-items: center;
+}
+
+figcaption {
+    font-style: italic;
+    font-family: cursive;
+    text-align: center;
+}
